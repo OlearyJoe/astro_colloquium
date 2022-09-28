@@ -254,7 +254,7 @@ Password: 192 <br>
 		                        }
 		                        else
 		                        {
-						#$curryearmonval = substr($details_arr["date"][$i],0,-2);
+						$curryearmonval = substr($details_arr["date"][$i],0,-2);
 						$curryearmonval = $details_arr["curryearmonval"][$i];
 						if ($curryearmonval == $_POST[query_mon_year] or $_POST[query_mon_year] == "" or $_POST[query_mon_year] == "None")
 						{
