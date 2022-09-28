@@ -173,7 +173,7 @@ Password: 192 <br>
 		<td>
                 <select name = "query_mon_year" id="query_mon_year" style="width: 230px; height: 30px; font-size: 16px" onchange = "this.form.submit()">
 		<?php
-		if ($_POST[query_mon_year] == "" or $_POST[query_mon_year] == "None")
+		if ($_POST["query_mon_year"] == "" or $_POST["query_mon_year"] == "None")
 		{		
 		?>
 		<option value="None">--All--</option>
@@ -182,8 +182,8 @@ Password: 192 <br>
 		else
 		{
 		?>		
-		<!--<option value="<?php echo($_POST[query_mon_year]); ?>"><?php echo (substr($_POST[query_mon_year],0,-2) . "-" . substr($_POST[query_mon_year],-2)) . "-xx"; ?></option>-->	
-		<option value="<?php echo($_POST[query_mon_year]); ?>"><?php echo $_POST[query_mon_year]; ?></option>	
+		<!--<option value="<?php echo($_POST["query_mon_year"]); ?>"><?php echo (substr($_POST["query_mon_year"],0,-2) . "-" . substr($_POST[query_mon_year],-2)) . "-xx"; ?></option>-->	
+		<option value="<?php echo($_POST["query_mon_year"]); ?>"><?php echo $_POST["query_mon_year"]; ?></option>	
 	
 		<?php
 		}
@@ -192,7 +192,7 @@ Password: 192 <br>
 		$i=0;
 		while ($i<count($yearmonarr))
 		{
-			if ($_POST[query_mon_year] == $yearmonarr[$i])
+			if ($_POST["query_mon_year"] == $yearmonarr[$i])
 			{			
 		?>
 			<option value="None">--All--</option>
