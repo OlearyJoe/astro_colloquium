@@ -23,7 +23,7 @@ font-family: Optima;
 }
 
 </style>
-
+<?php error_reporting (E_ALL ^ E_NOTICE); ?>  
 <?php
 
 $details_line_arr = file('astro_colloquium.txt');
