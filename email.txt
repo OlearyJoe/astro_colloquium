@@ -1,9 +1,9 @@
 [status publish]
 [category Colloquium]
-[slug Stephanie_Monty.html]
+[slug Manami_Roy.html]
 [comments off]
-Wednesday 21 Sep 2022 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
-<strong>Stephanie Monty</strong>, <em>ANU</em>; Email: email
+Wednesday 28 Sep 2022 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
+<strong>Manami Roy</strong>, <em>Raman Research Institute</em>; Email: email
 <section>
 <h2>Abstract</h2>
 Globular clusters (GCs) span a wide range of dynamical scales, serving as testbeds for individual stellar dynamics and actings as tracers of Galaxy assembly. In this talk I'll explore both scales, looking at the internal dynamics deep in the heart of GCs and how they fit into our current understanding of Galactic Archaeology and the history of the Milky Way (MW). Given the high density environment at the centre of GCs, they have been proposed to host intermediate mass black holes (IMBHs) - the missing link between stellar and supermassive black holes. And yet, no undisputed observational evidence of the existence of an IMBH in a GC centre exists today. This is largely due to the observational difficulties in resolving the crowded inner regions of GCs. The next generation ESO instrument, the MCAO-assisted Visible Imager and Spectrograph (MAVIS) could make these observations possible. I will present our bespoke instrument simulator, MAVISIM and simulated MAVIS results that show that it could recover the signature of a 1500 solar mass IMBH in a MW GC. In the context of Galactic Archaeology, GCs act as the only spatially coherent remnants of past MW merger events, acting as probes of the assembly history of the MW. I will present the results of a chemo-dynamical study into the two accreted GCs and potential siblings, NGC 288 and NGC 362. Our results show that by combining our GC orbits with chemistry, we can either confirm or deny a potential association with the Sausage accretion event, the last major merger of the MW.
