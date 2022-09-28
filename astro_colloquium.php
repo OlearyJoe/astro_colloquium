@@ -172,6 +172,7 @@ Password: 192 <br>
 		<tr>
 		<td>
                 <select name = 'query_mon_year' id='query_mon_year' style="width: 230px; height: 30px; font-size: 16px" onchange = "this.form.submit()">
+		<?php error_reporting (E_ALL ^ E_NOTICE); ?> 
 		<?php
 		if ($_POST['query_mon_year'] == "" or $_POST['query_mon_year'] == "None")
 		{		
@@ -220,6 +221,7 @@ Password: 192 <br>
                 <tr>
                         <td>
                         <table width = 680 border = 0>
+		
 		<?php
 
 			$i=0;
