@@ -1,5 +1,4 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
-20221005%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Pedro Barboza Rossetto%%%University of Otago%%%TBC%%%TBC%%%-%%%-%%%pedro.jpg%%%-%%%-%%%-
 #
 20221012%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Dr Kelly Gourdji%%%Swinburne%%%TBC%%%TBC%%%-%%%Postdoctoral researcher%%%kgourdji.jpeg%%%-%%%kgourdji[at]swin.edu.au%%%-
 #
