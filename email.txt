@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Manami_Roy.html]
+[slug Pedro_Barboza_Rossetto.html]
 [comments off]
-Wednesday 28 Sep 2022 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
-<strong>Manami Roy</strong>, <em>Raman Research Institute</em>; Email: email
+Wednesday 05 Oct 2022 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
+<strong>Pedro Barboza Rossetto</strong>, <em>University of Otago</em>; Email: email
 <section>
 <h2>Abstract</h2>
-Galaxies have three main components: galactic disk, dark matter halo, and diffuse gaseous halo around the disk which is known as Circumgalactic medium (CGM). It is still not very well understood how the different properties (e.g., density, temperature, non-thermal component, etc.) of CGM are structured and how CGM interacts with its surroundings. However, different theoretical models and simulations along with the observations of absorption lines and emission studies (gamma-ray, radio, X-ray) can help us to draw an overall picture of the CGM. One of the highly debated issues in the CGM study is the magnitude of the Cosmic ray (CR) population in the CGM.  In the first part of my talk, I will discuss two widely studied theoretical models of CGM: Isothermal model and Precipitation model and try to constrain the cosmic ray population in the CGM by the observations of OVIII column density, gamma-ray background, and radio background.  In the next part of my talk, I will focus on the interactions of CGM gas with its surroundings which play a very important role in the evolution of a galaxy. I will highlight two of these interactions: one with cosmic ray (CR) particles and secondly with satellite galaxies in the light of two idealised simulation setups. By understanding cosmic ray content in the CGM and these two prime interactions will help us to connect some dots in the puzzle of CGM.
+In this presentation, I will talk about the mechanisms of forming and maintaining a mountain on a Neutron Star by its magnetic field. To do so, I am going to introduce the important equations of magnetohydrodynamics that describe this system both in the classical and in the general relativistic paradigms. Additionally, we will investigate how mountains on neutron stars can generate gravitational waves and what the experimental evidence we have so far has to say about this.
 <\section>
 [end]

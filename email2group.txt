@@ -2,14 +2,14 @@
 <section><h2></h2></section>
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
-<section>Time: Wednesday 28 Sep 2022 @ 12:00 p.m.</section>
+<section>Time: Wednesday 05 Oct 2022 @ 12:00 p.m.</section>
 <section>Venue: Level 6 Geoff Opat(+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
-<section><strong>Manami Roy from Raman Research Institute</strong> (email)</section>
-<section><img src="https://qyx268.github.io/astro_colloquium/images/speakerimage" width="100" height="100"></section>
-<section><h2>Unfolding the mystery of cosmic ray content in the CGM along with the different interactions of the CGM with its surroundings</h2></section>
-<section><i>Galaxies have three main components: galactic disk, dark matter halo, and diffuse gaseous halo around the disk which is known as Circumgalactic medium (CGM). It is still not very well understood how the different properties (e.g., density, temperature, non-thermal component, etc.) of CGM are structured and how CGM interacts with its surroundings. However, different theoretical models and simulations along with the observations of absorption lines and emission studies (gamma-ray, radio, X-ray) can help us to draw an overall picture of the CGM. One of the highly debated issues in the CGM study is the magnitude of the Cosmic ray (CR) population in the CGM.  In the first part of my talk, I will discuss two widely studied theoretical models of CGM: Isothermal model and Precipitation model and try to constrain the cosmic ray population in the CGM by the observations of OVIII column density, gamma-ray background, and radio background.  In the next part of my talk, I will focus on the interactions of CGM gas with its surroundings which play a very important role in the evolution of a galaxy. I will highlight two of these interactions: one with cosmic ray (CR) particles and secondly with satellite galaxies in the light of two idealised simulation setups. By understanding cosmic ray content in the CGM and these two prime interactions will help us to connect some dots in the puzzle of CGM.</i></section>
+<section><strong>Pedro Barboza Rossetto from University of Otago</strong> (email)</section>
+<section><img src="https://qyx268.github.io/astro_colloquium/images/pedro.jpg" width="100" height="100"></section>
+<section><h2>Magnetically Confined Mountains on Neutron Stars</h2></section>
+<section><i>In this presentation, I will talk about the mechanisms of forming and maintaining a mountain on a Neutron Star by its magnetic field. To do so, I am going to introduce the important equations of magnetohydrodynamics that describe this system both in the classical and in the general relativistic paradigms. Additionally, we will investigate how mountains on neutron stars can generate gravitational waves and what the experimental evidence we have so far has to say about this.</i></section>
 <section><h2></h2></section>
-<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Manami_Roy.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
+<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Pedro_Barboza_Rossetto.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>
 <section>Looking forward to seeing you at the talk.</section>
 <section><h2></h2></section>
