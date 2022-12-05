@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Pedro_Barboza_Rossetto.html]
+[slug Dr_Kelly_Gourdji.html]
 [comments off]
-Wednesday 05 Oct 2022 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
-<strong>Pedro Barboza Rossetto</strong>, <em>University of Otago</em>; Email: email
+Wednesday 12 Oct 2022 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
+<strong>Dr Kelly Gourdji</strong>, <em>Swinburne</em>; Email: kgourdji[at]swin.edu.au
 <section>
 <h2>Abstract</h2>
-In this presentation, I will talk about the mechanisms of forming and maintaining a mountain on a Neutron Star by its magnetic field. To do so, I am going to introduce the important equations of magnetohydrodynamics that describe this system both in the classical and in the general relativistic paradigms. Additionally, we will investigate how mountains on neutron stars can generate gravitational waves and what the experimental evidence we have so far has to say about this.
+TBC
 <\section>
 [end]
