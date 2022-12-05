@@ -6,6 +6,6 @@ Wednesday 12 Oct 2022 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
 <strong>Dr Kelly Gourdji</strong>, <em>Swinburne</em>; Email: kgourdji[at]swin.edu.au
 <section>
 <h2>Abstract</h2>
-TBC
+The electromagnetic counterparts to gravitational wave (GW) merger events are highly sought after, but difficult to find owing to large localization regions (tens to hundreds of square degrees). In this talk, I present a strategy that applies the Low-Frequency Array’s (LOFAR) high sensitivity and large field of view to search for GW merger radio counterparts. In particular, using state-of-the-art data reduction techniques, we obtain radio maps covering over 20 deg^2 with rms noise down to sub-mJy levels on epochs ranging from 1 week to months post-merger. I present our results from LOFAR follow-up observations of merger events from the previous GW observing run, O3. Finally, I briefly discuss how we are also triggering LOFAR on GW events and short gamma-ray bursts to search for prompt coherent radio emission (like FRBs) related to neutron star mergers.
 <\section>
 [end]

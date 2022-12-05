@@ -6,8 +6,8 @@
 <section>Venue: Level 6 Geoff Opat(+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
 <section><strong>Dr Kelly Gourdji from Swinburne</strong> (kgourdji[at]swin.edu.au)</section>
 <section><img src="https://qyx268.github.io/astro_colloquium/images/kgourdji.jpeg" width="100" height="100"></section>
-<section><h2>TBC</h2></section>
-<section><i>TBC</i></section>
+<section><h2>Probing the radio counterparts of neutron star mergers with LOFAR</h2></section>
+<section><i>The electromagnetic counterparts to gravitational wave (GW) merger events are highly sought after, but difficult to find owing to large localization regions (tens to hundreds of square degrees). In this talk, I present a strategy that applies the Low-Frequency Array’s (LOFAR) high sensitivity and large field of view to search for GW merger radio counterparts. In particular, using state-of-the-art data reduction techniques, we obtain radio maps covering over 20 deg^2 with rms noise down to sub-mJy levels on epochs ranging from 1 week to months post-merger. I present our results from LOFAR follow-up observations of merger events from the previous GW observing run, O3. Finally, I briefly discuss how we are also triggering LOFAR on GW events and short gamma-ray bursts to search for prompt coherent radio emission (like FRBs) related to neutron star mergers.</i></section>
 <section><h2></h2></section>
 <small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Dr_Kelly_Gourdji.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>

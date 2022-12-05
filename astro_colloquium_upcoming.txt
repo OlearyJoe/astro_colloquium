@@ -1,7 +1,5 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
 #
-20221012%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Dr Kelly Gourdji%%%Swinburne%%%TBC%%%TBC%%%-%%%Postdoctoral researcher%%%kgourdji.jpeg%%%-%%%kgourdji[at]swin.edu.au%%%-
-#
 20221019%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Dr Tania Barone%%%Swinburne%%%TBC%%%TBC%%%-%%%Postdoctoral Research Associate%%%tbarone.jpg%%%-%%%tbarone[at]swin.edu.au%%%-
 #
 20221026%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Dr. Evgeni Grishin%%%Monash%%%TBC%%%TBC%%%-%%%-%%%evgeni.jpg%%%-%%%-%%%-
