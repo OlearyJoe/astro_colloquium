@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Dr_Kelly_Gourdji.html]
+[slug Dr_Tania_Barone.html]
 [comments off]
-Wednesday 12 Oct 2022 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
-<strong>Dr Kelly Gourdji</strong>, <em>Swinburne</em>; Email: kgourdji[at]swin.edu.au
+Wednesday 19 Oct 2022 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
+<strong>Dr Tania Barone</strong>, <em>Swinburne</em>; Email: tbarone[at]swin.edu.au
 <section>
 <h2>Abstract</h2>
-The electromagnetic counterparts to gravitational wave (GW) merger events are highly sought after, but difficult to find owing to large localization regions (tens to hundreds of square degrees). In this talk, I present a strategy that applies the Low-Frequency Array’s (LOFAR) high sensitivity and large field of view to search for GW merger radio counterparts. In particular, using state-of-the-art data reduction techniques, we obtain radio maps covering over 20 deg^2 with rms noise down to sub-mJy levels on epochs ranging from 1 week to months post-merger. I present our results from LOFAR follow-up observations of merger events from the previous GW observing run, O3. Finally, I briefly discuss how we are also triggering LOFAR on GW events and short gamma-ray bursts to search for prompt coherent radio emission (like FRBs) related to neutron star mergers.
+Stellar population parameters correlate with a range of galaxy properties, but it is unclear which relations are causal and which are the result of another underlying trend. The well-established correlations between mass and other galaxy properties are often considered evidence for mass driving a galaxy’s evolution. However, we find that, at fixed mass, stellar population properties show significant dependence on size, indicating that the size of a galaxy is also an important property tracing, and possibly influencing, its evolution. We quantitatively compare trends between various stellar population properties and key galaxy structural parameters --- in particular the galaxy’s mass, gravitational potential, and surface density --- in order to determine which relations are intrinsically tighter and are therefore more likely to reflect a causal relation. We divide our work into three parts focusing on early-type galaxies, star-forming galaxies and micro high-redshift galaxies, respectively. This division reflects both the physical differences between these samples, as well as technical differences in measuring their stellar population properties.
 <\section>
 [end]
