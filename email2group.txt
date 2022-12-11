@@ -2,14 +2,14 @@
 <section><h2></h2></section>
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
-<section>Time: Wednesday 19 Oct 2022 @ 12:00 p.m.</section>
+<section>Time: Wednesday 26 Oct 2022 @ 12:00 p.m.</section>
 <section>Venue: Level 6 Geoff Opat(+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
-<section><strong>Dr Tania Barone from Swinburne</strong> (tbarone[at]swin.edu.au)</section>
-<section><img src="https://qyx268.github.io/astro_colloquium/images/tbarone.jpg" width="100" height="100"></section>
-<section><h2>The link between a galaxy’s structure and its stellar populations.</h2></section>
-<section><i>Stellar population parameters correlate with a range of galaxy properties, but it is unclear which relations are causal and which are the result of another underlying trend. The well-established correlations between mass and other galaxy properties are often considered evidence for mass driving a galaxy’s evolution. However, we find that, at fixed mass, stellar population properties show significant dependence on size, indicating that the size of a galaxy is also an important property tracing, and possibly influencing, its evolution. We quantitatively compare trends between various stellar population properties and key galaxy structural parameters --- in particular the galaxy’s mass, gravitational potential, and surface density --- in order to determine which relations are intrinsically tighter and are therefore more likely to reflect a causal relation. We divide our work into three parts focusing on early-type galaxies, star-forming galaxies and micro high-redshift galaxies, respectively. This division reflects both the physical differences between these samples, as well as technical differences in measuring their stellar population properties.</i></section>
+<section><strong>Dr. Evgeni Grishin from Monash</strong> (-)</section>
+<section><img src="https://qyx268.github.io/astro_colloquium/images/evgeni.jpg" width="100" height="100"></section>
+<section><h2>Dynamical origins of wide binary collisions: from the Solar system to galaxy mergers</h2></section>
+<section><i>Direct collisions of two gravitating objects are common in astrophysics. Around ~30% of Kuiper-belt objects are binaries, and ~20% are probably contact-binaries consisting of two lobes, where Arrokoth is the most studied one so far. On galactic and extra-galactic scales, the merger rate of binary black-holes and MS stars could be enhanced by triple and multiple evolution. The celebrated Lidov-Kozai mechanism excites the binary's eccentricity in multiple systems, and is scale-free, hence can be applied to many astrophysical scales. We show that both Arrokoth's evolution, as well as stellar multiple evolution is governed by semi-secular evolution followed by chaotic episodes. We discuss the evolutionary pathways and the origins of chaos. On Solar-system scales, we're able to explain both Arrokoth's peculiar obliquity and slow rotation. On galactic scales we show that the compact object merger rate is enhanced in galactic nuclei, while the galactic tidal field could also be a highly collisional environment and leads to a plethora of transients. Finally, we apply our results to mergers of triple supermassive BHs observable in the LISA band.</i></section>
 <section><h2></h2></section>
-<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Dr_Tania_Barone.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
+<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Dr._Evgeni_Grishin.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>
 <section>Looking forward to seeing you at the talk.</section>
 <section><h2></h2></section>
