@@ -1,7 +1,5 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
 #
-20221102%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Prof Virginia Kilborn%%%Swinburne%%%TBC%%%TBC%%%-%%%Dean of Science%%%vkilborn.jpg%%%-%%%vkilborn[at]swin.edu.au%%%-
-#
 20221109%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%J.D. Merritt%%%University of Oregon%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
 20221116%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Ryosuke Hirai%%%Monash University%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
