@@ -6,6 +6,6 @@ Wednesday 02 Nov 2022 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
 <strong>Prof Virginia Kilborn</strong>, <em>Swinburne</em>; Email: vkilborn[at]swin.edu.au
 <section>
 <h2>Abstract</h2>
-TBC
+Hydrogen is the most common element in the Universe. Powering star formation, it plays a crucial role in the formation and evolution of galaxies. Observations of Neutral Hydrogen (HI) in the radio wavelength allow us to survey for galaxies in the nearby universe, and next generation surveys from telescopes such as the Australian Square Kilometre Array Pathfinder (ASKAP) are expected to provide redshifts, kinematics and gas content of around 600,000 galaxies. In this talk I'll provide an overview of HI science, what we've learnt to date, and the future of surveys such as WALLABY which will observe most of the Southern sky.
 <\section>
 [end]

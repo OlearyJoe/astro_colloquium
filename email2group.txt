@@ -6,8 +6,8 @@
 <section>Venue: Level 6 Geoff Opat(+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
 <section><strong>Prof Virginia Kilborn from Swinburne</strong> (vkilborn[at]swin.edu.au)</section>
 <section><img src="https://qyx268.github.io/astro_colloquium/images/vkilborn.jpg" width="100" height="100"></section>
-<section><h2>TBC</h2></section>
-<section><i>TBC</i></section>
+<section><h2>Next Generation HI surveys</h2></section>
+<section><i>Hydrogen is the most common element in the Universe. Powering star formation, it plays a crucial role in the formation and evolution of galaxies. Observations of Neutral Hydrogen (HI) in the radio wavelength allow us to survey for galaxies in the nearby universe, and next generation surveys from telescopes such as the Australian Square Kilometre Array Pathfinder (ASKAP) are expected to provide redshifts, kinematics and gas content of around 600,000 galaxies. In this talk I'll provide an overview of HI science, what we've learnt to date, and the future of surveys such as WALLABY which will observe most of the Southern sky.</i></section>
 <section><h2></h2></section>
 <small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Prof_Virginia_Kilborn.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>
