@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Ryosuke_Hirai.html]
+[slug Associate_Prof._Kim-Vy_Tran_2.html]
 [comments off]
-Wednesday 16 Nov 2022 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
-<strong>Ryosuke Hirai</strong>, <em>Monash University</em>; Email: -
+Wednesday 30 Nov 2022 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
+<strong>Associate Prof. Kim-Vy Tran</strong>, <em>University of New South Wales</em>; Email: kim-vy.tran[at]unsw.edu.au
 <section>
 <h2>Abstract</h2>
-Core-collapse supernovae give birth to neutron stars with a natal "kick", which is the linear motion given due to asymmetries in the explosion. A large fraction of core-collapse supernova explosions are expected to occur in the presence of a close-by companion star. Due to the stochastic nature of the kicks, the direction is considered to be random, and could sometimes be shot into the companion star. There has been surprisingly little work on the consequence of collisions between normal stars and neutron stars, mainly because it has been considered that it would lead to immediate mergers. However, in some situations the neutron star may penetrate the companion's envelope, creating interesting phenomena. In this talk, I will present results of 3D hydrodynamical simulations of collisions between new-born neutron stars and stellar companions in binary systems. We discovered three possible interesting outcomes especially when the neutron star can penetrate the companion envelope. First, it can create hypervelocity stars with velocities exceeding the classical limit. Second, the neutron star can carry away material from the companion star, which can eventually form protoplanetary disks to host pulsar planets. Third, part of the carried away matter can accrete onto the neutron star, creating observable features. I will discuss how these scenarios may be able to resolve some conflicts between some observed objects and theoretical models for their origin.
+ASTRO 3D is an Australian Centre of Excellence with 300+ members united in understanding the evolution of the matter, light, and elements from the Big Bang to the present day. Here I highlight results from two of our flagship surveys. The MOSEL survey confirms a population of Extreme Emission Line Galaxies in the distant universe and suggests that most galaxies go through a strong starburst phase. By comparing galaxy kinematics to cosmological simulations, we show that massive galaxies in the distant universe build their stellar mass mostly by accreting other galaxies, and that puffy galaxies quench slower than compact galaxies. Gravitational lensing is a powerful cosmic tool for exploring a wide range of astrophysical phenomena including understanding how ordinary and dark matter couple and finding the earliest galaxies and stars. Using Convolutional Neural Networks to sift through legacy imaging data-sets, the AGEL survey confirms about 100 strong gravitational lenses. I provide an overview of the AGEL survey and describe AGEL projects based on observations from the Hubble Space Telescope, Keck Observatory, and the Very Large Telescope.
 <\section>
 [end]
