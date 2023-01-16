@@ -7,3 +7,5 @@
 20230222%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Reinhold Willcox%%%Monash University%%%TBC%%%TBC%%%-%%%PhD Student%%%Reinhold.jpg%%%-%%%reinhold.willcox[at]monash.edu%%%-
 #
 20230315%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Andrew Cameron%%%Swinburne University%%%TBC%%%TBC%%%-%%%Postdoc%%%AndrewCameron.jpg%%%-%%%andrewcameron[@]swin.edu.au%%%-
+#
+20230510%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Benjamin Pope%%%University of Queensland%%%TBC%%%TBC%%%-%%%ARC DECRA Fellow%%%BenPope.jpg%%%-%%%b.pope[at]uq.edu.au%%%-
