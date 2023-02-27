@@ -1,7 +1,5 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
 #
-20230208%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Dr Henry Zovaro%%%ANU%%%TBC%%%TBC%%%-%%%Postdoctoral fellow%%%hzovaro.jpg%%%-%%%henry.zovaro[at]anu.edu.au%%%-
-#
 20230215%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Changrong Liu%%%University of Melbourne%%%TBC%%%TBC%%%-%%%PhD Student%%%no_image.png%%%-%%%changrongl1[at]student.unimelb.edu.au%%%-
 #
 20230222%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Reinhold Willcox%%%Monash University%%%TBC%%%TBC%%%-%%%PhD Student%%%Reinhold.jpg%%%-%%%reinhold.willcox[at]monash.edu%%%-
