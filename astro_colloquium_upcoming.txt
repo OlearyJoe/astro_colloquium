@@ -16,9 +16,7 @@
 #
 20230405%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Sergei Kopeikin%%%University of Missouri%%%TBC%%%TBC%%%-%%%Professor%%%SergeiKop.jpg%%%-%%%kopeikins[at]missouri.edu%%%-
 #
-20230412%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Tom Kimpson%%%University of Melbourne%%%TBC%%%TBC%%%-%%%Postdoc%%%TomKimpson.jpg%%%-%%%tom.kimpson[at]unimelb.edu.au%%%-
-#
-20230419%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Kinwah Wu%%%University College London%%%TBC%%%TBC%%%-%%%Professor%%%no_image.jpg%%%-%%%kinwah.wu[at]ucl.ac.uk%%%-
+20230419%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Tom Kimpson%%%University of Melbourne%%%TBC%%%TBC%%%-%%%Postdoc%%%TomKimpson.jpg%%%-%%%tom.kimpson[at]unimelb.edu.au%%%-
 #
 20230510%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Benjamin Pope%%%University of Queensland%%%TBC%%%TBC%%%-%%%ARC DECRA Fellow%%%BenPope.jpg%%%-%%%b.pope[at]uq.edu.au%%%-
 #
