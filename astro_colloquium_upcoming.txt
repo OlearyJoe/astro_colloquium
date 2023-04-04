@@ -21,3 +21,5 @@
 20230419%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Kinwah Wu%%%University College London%%%TBC%%%TBC%%%-%%%Professor%%%no_image.jpg%%%-%%%kinwah.wu[at]ucl.ac.uk%%%-
 #
 20230510%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Benjamin Pope%%%University of Queensland%%%TBC%%%TBC%%%-%%%ARC DECRA Fellow%%%BenPope.jpg%%%-%%%b.pope[at]uq.edu.au%%%-
+#
+20230830%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Benedetta Vulcani%%%Italian National Institute of Astrophysics%%%TBC%%%TBC%%%-%%%ARC DECRA Fellow%%%no_image.jpg%%%-%%%benedetta.vulcani[at]inaf.it%%%-
