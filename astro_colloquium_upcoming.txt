@@ -18,6 +18,8 @@
 #
 20230419%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Tom Kimpson%%%University of Melbourne%%%TBC%%%TBC%%%-%%%Postdoc%%%TomKimpson.jpg%%%-%%%tom.kimpson[at]unimelb.edu.au%%%-
 #
+20230426%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Sayantan Bhattacharya%%%University Of Massachusetts, Lowell%%%TBC%%%TBC%%%-%%%PhD Student%%%Sayantan.jpg%%%-%%%Sayantan_Bhattacharya[at]student.uml.edu%%%-
+#
 20230510%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Benjamin Pope%%%University of Queensland%%%TBC%%%TBC%%%-%%%ARC DECRA Fellow%%%BenPope.jpg%%%-%%%b.pope[at]uq.edu.au%%%-
 #
 20230531%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Rossana Ruggeri%%%University of Queensland%%%TBC%%%TBC%%%-%%%Research Fellow%%%no_image.jpg%%%-%%%r.ruggeri[at]uq.edu.au%%%-
