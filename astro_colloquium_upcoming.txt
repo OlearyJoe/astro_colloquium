@@ -22,6 +22,8 @@
 #
 20230510%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Benjamin Pope%%%University of Queensland%%%TBC%%%TBC%%%-%%%ARC DECRA Fellow%%%BenPope.jpg%%%-%%%b.pope[at]uq.edu.au%%%-
 #
+20230517%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Jin-Ping Zhu%%%Monash University%%%TBC%%%TBC%%%-%%%Research Fellow%%%no_image.jpg%%%-%%%Jin-Ping.Zhu[at]monash.edu%%%-
+#
 20230531%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Rossana Ruggeri%%%University of Queensland%%%TBC%%%TBC%%%-%%%Research Fellow%%%no_image.jpg%%%-%%%r.ruggeri[at]uq.edu.au%%%-
 #
 20230830%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Benedetta Vulcani%%%Italian National Institute of Astrophysics%%%TBC%%%TBC%%%-%%%ARC DECRA Fellow%%%no_image.jpg%%%-%%%benedetta.vulcani[at]inaf.it%%%-
