@@ -20,6 +20,8 @@
 #
 20230426%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Sayantan Bhattacharya%%%University Of Massachusetts, Lowell%%%TBC%%%TBC%%%-%%%PhD Student%%%Sayantan.jpg%%%-%%%Sayantan_Bhattacharya[at]student.uml.edu%%%-
 #
+20230503%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Matteo Romano%%%University of Namur%%%TBC%%%TBC%%%-%%%Postdocw%%%no_image.jpg%%%-%%%matteo.romano[at]unamur.be%%%-
+#
 20230510%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Benjamin Pope%%%University of Queensland%%%TBC%%%TBC%%%-%%%ARC DECRA Fellow%%%BenPope.jpg%%%-%%%b.pope[at]uq.edu.au%%%-
 #
 20230512%%%12:00 p.m.%%%TBC (+Zoom)%%%Orsola De Marco%%%AAL%%%TBC%%%TBC%%%-%%%Board Chair (AAL)%%%Orsola.jpg%%%-%%%orsola.demarco[at]mq.edu.au%%%-
