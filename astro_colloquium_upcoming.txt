@@ -38,4 +38,6 @@
 #
 20230628%%%12:00 p.m.%%%Old Geology Theatre 1(+Zoom)%%%Anais Moller%%%Swinburne University%%%TBC%%%TBC%%%-%%%Research Fellow%%%Anais.jpeg%%%-%%%amoller[at]swin.edu.au%%%-
 #
+20230719%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Brad Tucker%%%ANU%%%TBC%%%TBC%%%-%%%Research Fellow%%%BradTucker.jpeg%%%-%%%brad.tucker[at]anu.edu.au%%%-
+#
 20230830%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Benedetta Vulcani%%%Italian National Institute of Astrophysics%%%TBC%%%TBC%%%-%%%ARC DECRA Fellow%%%no_image.jpg%%%-%%%benedetta.vulcani[at]inaf.it%%%-
