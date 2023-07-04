@@ -41,3 +41,5 @@
 20230712%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Brad Tucker%%%ANU%%%TBC%%%TBC%%%-%%%Research Fellow%%%BradTucker.jpeg%%%-%%%brad.tucker[at]anu.edu.au%%%-
 #
 20230830%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Benedetta Vulcani%%%Italian National Institute of Astrophysics%%%TBC%%%TBC%%%-%%%ARC DECRA Fellow%%%no_image.jpg%%%-%%%benedetta.vulcani[at]inaf.it%%%-
+# 
+20230906%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Natasha Van Bemmel%%%Swinburne%%%TBC%%%TBC%%%-%%%PhD %%%no_image.jpg%%%-%%%nvanbemmel[at]swin.edu.au%%%-
