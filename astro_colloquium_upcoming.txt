@@ -47,3 +47,5 @@
 20230830%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Benedetta Vulcani%%%Italian National Institute of Astrophysics%%%TBC%%%TBC%%%-%%%ARC DECRA Fellow%%%no_image.jpg%%%-%%%benedetta.vulcani[at]inaf.it%%%-
 # 
 20230906%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Natasha Van Bemmel%%%Swinburne%%%TBC%%%TBC%%%-%%%PhD %%%no_image.jpg%%%-%%%nvanbemmel[at]swin.edu.au%%%-
+# 
+20230920%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Davide Amato%%%Imperial College London%%%TBC%%%TBC%%%-%%%Research Fellow%%%Davide.jpg%%%-%%%d.amato[at]imperial.ac.uk%%%-
