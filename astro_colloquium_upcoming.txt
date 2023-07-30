@@ -49,3 +49,5 @@
 20230906%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Natasha Van Bemmel%%%Swinburne%%%TBC%%%TBC%%%-%%%PhD %%%no_image.jpg%%%-%%%nvanbemmel[at]swin.edu.au%%%-
 # 
 20230920%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Davide Amato%%%Imperial College London%%%TBC%%%TBC%%%-%%%Research Fellow%%%Davide.jpeg%%%-%%%d.amato[at]imperial.ac.uk%%%-
+# 
+20231110%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Laura Venuti%%%SETI Institute%%%TBC%%%TBC%%%-%%%Research Scientist%%%no_image.jpeg%%%-%%%lvenuti[at]seti.org%%%-
