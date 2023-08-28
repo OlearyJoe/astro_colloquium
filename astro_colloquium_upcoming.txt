@@ -59,6 +59,8 @@
 20231011%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Laura Venuti%%%SETI Institute%%%TBC%%%TBC%%%-%%%Research Scientist%%%no_image.png%%%-%%%lvenuti[at]seti.org%%%-
 # 
 20231102%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Adelle Goodwin%%%Curtin University%%%TBC%%%TBC%%%-%%%Research Fellow%%%AdelleG.jpg%%%-%%%adelle.goodwin[at]curtin.edu.au%%%-
+# 
+20231115%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Rajika Kuruwita%%%Heidelberg Institute for Theoretical Studies%%%TBC%%%TBC%%%-%%%Research Fellow%%%no_image.png%%%-%%%rajika.kuruwita[at]h-its.org%%%-
 #
 20231129%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Rebecca Allen%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%RebeccaAllen.jpg%%%-%%%rebeccaallen@swin.edu.au%%%-
 #
