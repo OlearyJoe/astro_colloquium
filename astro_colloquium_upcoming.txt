@@ -52,8 +52,10 @@
 # 
 20230906%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Natasha Van Bemmel%%%Swinburne%%%TBC%%%TBC%%%-%%%PhD %%%no_image.jpg%%%-%%%nvanbemmel[at]swin.edu.au%%%-
 # 
-20230913%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Fan Liu%%%Monash University%%%TBC%%%TBC%%%-%%%Research Fellow%%%FanLiu.jpeg%%%-%%%fan.liu[at]monash.edu%%%-
+20230913%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Glen Stewart%%%University of Colorado%%%TBC%%%TBC%%%-%%%Research Scientist%%%GlenStewart.jpeg%%%-%%%Glen.Stewart@lasp.colorado.edu%%%-
 # 
+20230920%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Fan Liu%%%Monash University%%%TBC%%%TBC%%%-%%%Research Fellow%%%FanLiu.jpeg%%%-%%%fan.liu[at]monash.edu%%%-
+#
 20231011%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Laura Venuti%%%SETI Institute%%%TBC%%%TBC%%%-%%%Research Scientist%%%no_image.png%%%-%%%lvenuti[at]seti.org%%%-
 # 
 20231102%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Adelle Goodwin%%%Curtin University%%%TBC%%%TBC%%%-%%%Research Fellow%%%AdelleG.jpg%%%-%%%adelle.goodwin[at]curtin.edu.au%%%-
