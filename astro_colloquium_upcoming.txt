@@ -56,6 +56,8 @@
 # 
 20230920%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Fan Liu%%%Monash University%%%TBC%%%TBC%%%-%%%Research Fellow%%%FanLiu.jpeg%%%-%%%fan.liu[at]monash.edu%%%-
 #
+20231004%%%12:00 p.m.%%%Zoom%%%Di Wu%%%Massachusetts Institute of Technology%%%TBC%%%TBC%%%-%%%Postdoc%%%DiWu.jpeg%%%-%%%d_wu[at]mit.edu%%%-
+#
 20231011%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Laura Venuti%%%SETI Institute%%%TBC%%%TBC%%%-%%%Research Scientist%%%no_image.png%%%-%%%lvenuti[at]seti.org%%%-
 # 
 20231102%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Adelle Goodwin%%%Curtin University%%%TBC%%%TBC%%%-%%%Research Fellow%%%AdelleG.jpg%%%-%%%adelle.goodwin[at]curtin.edu.au%%%-
