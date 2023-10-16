@@ -62,6 +62,8 @@
 # 
 20231018%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Ben Farr%%%University of Oregon%%%TBC%%%TBC%%%-%%%Assistant Professor%%%BenFarr.jpeg%%%-%%%bfarr[at]uoregon.edu%%%-
 #
+20231025%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Dougal Dobie%%%Swinburne University%%%TBC%%%TBC%%%-%%%Research Fellow%%%Dougal.jpeg%%%-%%%ddobie[at]swin.edu.au%%%-
+#
 20231102%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Adelle Goodwin%%%Curtin University%%%TBC%%%TBC%%%-%%%Research Fellow%%%AdelleG.jpg%%%-%%%adelle.goodwin[at]curtin.edu.au%%%-
 # 
 20231108%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Davide Amato%%%Imperial College London%%%TBC%%%TBC%%%-%%%Research Fellow%%%Davide.jpeg%%%-%%%d.amato[at]imperial.ac.uk%%%-
