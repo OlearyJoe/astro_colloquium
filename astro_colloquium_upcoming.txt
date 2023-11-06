@@ -68,8 +68,6 @@
 # 
 20231108%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Davide Amato%%%Imperial College London%%%TBC%%%TBC%%%-%%%Research Fellow%%%Davide.jpeg%%%-%%%d.amato[at]imperial.ac.uk%%%-
 #
-20231115%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Rajika Kuruwita%%%Heidelberg Institute for Theoretical Studies%%%TBC%%%TBC%%%-%%%Research Fellow%%%no_image.png%%%-%%%rajika.kuruwita[at]h-its.org%%%-
-#
 20231129%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Rebecca Allen%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%RebeccaAllen.jpg%%%-%%%rebeccaallen@swin.edu.au%%%-
 #
 20240214%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Rebecca McElroy%%%University of Queensland%%%TBC%%%TBC%%%-%%%Research Fellow%%%RebeccaMc.jpeg%%%-%%%r.mcelroy[at]uq.edu.au%%%-
