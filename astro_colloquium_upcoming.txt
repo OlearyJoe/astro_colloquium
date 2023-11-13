@@ -68,6 +68,8 @@
 # 
 20231108%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Davide Amato%%%Imperial College London%%%TBC%%%TBC%%%-%%%Research Fellow%%%Davide.jpeg%%%-%%%d.amato[at]imperial.ac.uk%%%-
 #
+20231122%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Patrick Meyers%%%Caltech%%%TBC%%%TBC%%%-%%%Postdoctoral Scholar Research Associate in Physics%%%PatMeyers.jpg%%%-%%%pmeyers[at]caltech.edu%%%-
+#
 20231129%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Rebecca Allen%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%RebeccaAllen.jpg%%%-%%%rebeccaallen@swin.edu.au%%%-
 #
 20240214%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Rebecca McElroy%%%University of Queensland%%%TBC%%%TBC%%%-%%%Research Fellow%%%RebeccaMc.jpeg%%%-%%%r.mcelroy[at]uq.edu.au%%%-

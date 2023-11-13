@@ -32,5 +32,6 @@ Ben_Farr
 Dougal_Dobie
 Adelle_Goodwin
 Davide_Amato
+Patrick_Meyers
 Rebecca_Allen
 Rebecca_McElroy
