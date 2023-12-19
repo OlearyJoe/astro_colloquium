@@ -72,4 +72,6 @@
 #
 20231129%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Rebecca Allen%%%Swinburne University%%%TBC%%%TBC%%%-%%%-%%%RebeccaAllen.jpg%%%-%%%rebeccaallen@swin.edu.au%%%-
 #
+20240124%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Jessica Zebrowski%%%University of Chigaco%%%TBC%%%TBC%%%-%%%KICP Fellow%%%Jessica_KICP.jpeg%%%-%%%j.z[at]uchicago.edu%%%-
+#
 20240214%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Rebecca McElroy%%%University of Queensland%%%TBC%%%TBC%%%-%%%Research Fellow%%%RebeccaMc.jpeg%%%-%%%r.mcelroy[at]uq.edu.au%%%-
