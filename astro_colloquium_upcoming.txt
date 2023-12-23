@@ -76,4 +76,6 @@
 #
 20240207%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Michael Tucker%%%CCAPP OSU%%%TBC%%%TBC%%%-%%% CCAPP Postdoctoral Fellow%%%MTucker.jpeg%%%-%%%tucker.957[at]osu.edu%%%-
 #
+20240213%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Amit Seta%%%Australian National University%%%TBC%%%TBC%%%-%%%Senior Research Fellow%%%AmitSeta.jpeg%%%-%%%Amit.Seta[at]anu.edu.au%%%-
+#
 20240214%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Rebecca McElroy%%%University of Queensland%%%TBC%%%TBC%%%-%%%Research Fellow%%%RebeccaMc.jpeg%%%-%%%r.mcelroy[at]uq.edu.au%%%-
