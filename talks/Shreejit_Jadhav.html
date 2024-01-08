@@ -5,7 +5,7 @@
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
 <link rel="icon" href="https://s3-ap-southeast-2.amazonaws.com/au.files.campus.edublogs.org/blogs.unimelb.edu.au/dist/favicon/favicon.png" type="image/gif" sizes="16x16">
-<title>TBC</title>
+<title>Towards a robust and reliable deep learning approach for detection of compact binary mergers in gravitational wave data</title>
 <!--
 This website is managed centrally by the External Relations Digital Team. digital-team@unimelb.edu.au
 Last updated by: Rachid Annab on 15 Feb 2017 4:11pm
@@ -143,7 +143,7 @@ Web maintainer: science-web@unimelb.edu.au
 	<div class="headerless"></div> 
 	<div class="detail">
 	  <div class="upper">
-	      <h1 itemprop="name">TBC
+	      <h1 itemprop="name">Towards a robust and reliable deep learning approach for detection of compact binary mergers in gravitational wave data
 	      </h1>
 
 	      <!--<h2>Seminar/Forum</h2>-->
@@ -220,7 +220,7 @@ Web maintainer: science-web@unimelb.edu.au
 		</li></ul>
 	    <section itemprop="description">
 	    <h2>Abstract</h2>
-	    <p>TBC</p>
+	    <p>Data from ground-based gravitational wave (GW) detectors are populated with an enormous number of noise transients of terrestrial origin (glitches). These glitches create a loud background for the GW searches, thereby adversely impacting their search sensitivity. Modelled compact binary coalescence (CBC) searches, although most sensitive, are computationally costly which restricts the coverage of astrophysically interesting parameter space they can be used for. Deep learning (DL) approaches, due to their ability to learn generalised signal and noise models, along with their deployability for fast inference with GPUs, have shown great promise in tackling these challenges. However, the opaque nature of DL models severely harms their reliability and consequently their usability for production-level analyses. In this work, we meticulously develop a DL model in a stage-wise manner and work towards improving its robustness and reliability. First, we address the problems in maintaining the purity of training data and derive a new metric that better reflects the visual strength of the ``chirp'' signal features in the data. We train a variational auto-encoder (VAE) to obtain a reduced, smooth representation of the signal-specific information from the input into its latent space. With densely connected layers, we construct a classifier model that maps this latent space to the binary classification between CBC signals and noise. Our tests on real LIGO data showed an impressive performance of the model. However, upon probing the robustness of the model through adversarial attacks, its simple failure modes were identified, underlining how such models can still be highly fragile. As a first step towards bringing robustness, we retrain the model in a novel framework involving a generative adversarial network (GAN). Over the course of training, the model learns to eliminate the primary modes of failure identified by the adversaries. Although absolute robustness is practically impossible to achieve, we demonstrate some fundamental improvements brought about by such training, like sparseness and reduced degeneracy in the extracted features at different layers inside the model. Through comparative inference on the test datasets based on real LIGO data, we show that the prescribed robustness is achieved at practically zero cost in terms of performance. We also performed a coincident search on ~8.8 days of LIGO data from the third observational run and recovered two significant CBC events, viz., GW190519_153544 and GW190521_074359 from GWTC-2.1. We also perform an injection study and report the search sensitivity.</p>
 	    </section>
              <!--
 	     <h2>Presenter</h2>
