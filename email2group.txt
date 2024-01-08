@@ -2,14 +2,14 @@
 <section><h2></h2></section>
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
-<section>Time: Wednesday 15 Mar 2023 @ 12:00 p.m.</section>
+<section>Time: Wednesday 10 May 2023 @ 12:00 p.m.</section>
 <section>Venue: Old Geology Theatre 2(+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
-<section><strong>Andrew Cameron from Swinburne University</strong> (andrewcameron[at]swin.edu.au)</section>
-<section><img src="https://qyx268.github.io/astro_colloquium/images/AndrewCameron.jpg" width="100" height="100"></section>
-<section><h2>Exploring tests of gravity with the relativistic double neutron star PSR J1757-1854</h2></section>
-<section><i>Pulsars in relativistic binary systems are some of the most useful laboratories available for testing relativistic theories of gravity in the strong field regime.  In this talk, I will highlight the latest results from a 6-year observing campaign of the double neutron star system PSR J1757-1854, a 21.5-ms pulsar in an eccentric 4.4-hour orbit and one of the most extreme relativistic binaries currently known. These results include the first detection of geodetic precession in the system, an evaluation of the current utility of the pulsar’s post-Keplerian tests of gravity, and an assessment of the new and uncommon tests that will become available in the near future with continuing observations.</i></section>
+<section><strong>Benjamin Pope from University of Queensland</strong> (b.pope[at]uq.edu.au)</section>
+<section><img src="https://qyx268.github.io/astro_colloquium/images/BenPope.jpg" width="100" height="100"></section>
+<section><h2>Modelling Cosmic Radiation Events in the Tree-ring Radiocarbon Record</h2></section>
+<section><i>Annually-resolved measurements of the radiocarbon content in tree-rings have revealed rare sharp rises in carbon-14 production. These 'Miyake events' are likely produced by rare increases in cosmic radiation from the Sun or other energetic astrophysical sources. They have so far been interpreted as extreme solar flares, more than an order of magnitude larger than the destructive Carrington Event, and would pose a serious threat to our technological civilization. To interpret high-resolution tree-ring radiocarbon measurements we have to model the entire global carbon cycle: the radiocarbon produced is not only circulated through the Earth's atmosphere and oceans, but also absorbed by the biosphere and locked in the annual growth rings of trees. Our team have therefore developed 'ticktack', the first open-source Python package that connects models of the carbon cycle and its characteristic response curves with modern Bayesian inference tools. We use this to analyse all public annual 14C tree data, and infer posterior parameters for all six known Miyake events. They do not show a consistent relationship to the solar cycle, and several display extended durations that challenge either astrophysical or geophysical models.</i></section>
 <section><h2></h2></section>
-<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Andrew_Cameron.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
+<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Benjamin_Pope.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>
 <section>Looking forward to seeing you at the talk.</section>
 <section><h2></h2></section>

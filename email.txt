@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Andrew_Cameron.html]
+[slug Benjamin_Pope.html]
 [comments off]
-Wednesday 15 Mar 2023 @ 12:00 p.m., Old Geology Theatre 2(+Zoom)
-<strong>Andrew Cameron</strong>, <em>Swinburne University</em>; Email: andrewcameron[at]swin.edu.au
+Wednesday 10 May 2023 @ 12:00 p.m., Old Geology Theatre 2(+Zoom)
+<strong>Benjamin Pope</strong>, <em>University of Queensland</em>; Email: b.pope[at]uq.edu.au
 <section>
 <h2>Abstract</h2>
-Pulsars in relativistic binary systems are some of the most useful laboratories available for testing relativistic theories of gravity in the strong field regime.  In this talk, I will highlight the latest results from a 6-year observing campaign of the double neutron star system PSR J1757-1854, a 21.5-ms pulsar in an eccentric 4.4-hour orbit and one of the most extreme relativistic binaries currently known. These results include the first detection of geodetic precession in the system, an evaluation of the current utility of the pulsar’s post-Keplerian tests of gravity, and an assessment of the new and uncommon tests that will become available in the near future with continuing observations.
+Annually-resolved measurements of the radiocarbon content in tree-rings have revealed rare sharp rises in carbon-14 production. These 'Miyake events' are likely produced by rare increases in cosmic radiation from the Sun or other energetic astrophysical sources. They have so far been interpreted as extreme solar flares, more than an order of magnitude larger than the destructive Carrington Event, and would pose a serious threat to our technological civilization. To interpret high-resolution tree-ring radiocarbon measurements we have to model the entire global carbon cycle: the radiocarbon produced is not only circulated through the Earth's atmosphere and oceans, but also absorbed by the biosphere and locked in the annual growth rings of trees. Our team have therefore developed 'ticktack', the first open-source Python package that connects models of the carbon cycle and its characteristic response curves with modern Bayesian inference tools. We use this to analyse all public annual 14C tree data, and infer posterior parameters for all six known Miyake events. They do not show a consistent relationship to the solar cycle, and several display extended durations that challenge either astrophysical or geophysical models.
 <\section>
 [end]
