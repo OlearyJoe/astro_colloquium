@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Dr_Henry_Zovaro.html]
+[slug Changrong_Liu.html]
 [comments off]
-Wednesday 08 Feb 2023 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
-<strong>Dr Henry Zovaro</strong>, <em>ANU</em>; Email: henry.zovaro[at]anu.edu.au
+Wednesday 15 Feb 2023 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
+<strong>Changrong Liu</strong>, <em>University of Melbourne</em>; Email: changrongl1[at]student.unimelb.edu.au
 <section>
 <h2>Abstract</h2>
-Understanding the cycling of baryons within and around galaxies is key to unravelling the formation histories of present-day galaxies. Star formation is a key driver of the baryon cycle: winds and outflows driven by intense episodes of star formation can eject material from the disk and create a “galactic fountain”, providing fuel for successive epochs of star formation. These winds may also lead to the formation of a “thick disk” of diffuse ionised gas that is kinematically distinct from the “thin disk” comprising the HII regions. Providing integral field spectroscopy for over 3000 galaxies, the SAMI Galaxy Survey enables us to study the baryon cycle in a large sample of local galaxies. In particular, the high spectral resolution of SAMI enables us to kinematically distinguish winds and thick disks, traced by broad emission line components, from the star-forming thin disk, traced by the narrow component, giving us the opportunity to determine the fundamental differences between galaxies harbouring winds and/or thick disks and those without. Even when controlling for physical properties (e.g., stellar mass and SFR) and observational effects (e.g., angular scale, inclination and S/N), we find that galaxies with winds/thick disks exhibit significantly higher global SFR surface densities, which is consistent with previous studies. Interestingly, we find that although galaxies with higher global SFR surface densities tend to have clumpier SFR distributions, it is global SFR surface density - and not clumpiness - that is most strongly correlated with the presence of winds/thick disks, even when accounting for spatial resolution effects. We also find that wind-dominated systems tend to exhibit higher EWs in the broad emission line component than those harbouring thick disks, and are marginally less massive than the disk-like systems; however, repeat analysis with a larger sample size is required to confirm these trends.
+This talk  focuses on detection of a sinusoidal signal with randomly varying frequency and phase. I will first review methods which have been developed over the past 70 years for estimating and tracking sinusoidal signals with varying frequency, including the extended Kalman filter solution. I will then introduce some of our proposed detection techniques covering hidden Markov model based detector, optimal Bayesian detectors implemented using Markov chain Monte Carlo methods, optimal likelihood ratio detectors using the estimator-correlator structure and nonlinear optimal filtering, and finally, a least square based detector implemented using optimal control of a bilinear system.
 <\section>
 [end]
