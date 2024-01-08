@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Benjamin_Pope.html]
+[slug Orsola_De_Marco.html]
 [comments off]
-Wednesday 10 May 2023 @ 12:00 p.m., Old Geology Theatre 2(+Zoom)
-<strong>Benjamin Pope</strong>, <em>University of Queensland</em>; Email: b.pope[at]uq.edu.au
+Friday 12 May 2023 @ 13:00 p.m., TBC (+Zoom)
+<strong>Orsola De Marco</strong>, <em>AAL</em>; Email: orsola.demarco[at]mq.edu.au
 <section>
 <h2>Abstract</h2>
-Annually-resolved measurements of the radiocarbon content in tree-rings have revealed rare sharp rises in carbon-14 production. These 'Miyake events' are likely produced by rare increases in cosmic radiation from the Sun or other energetic astrophysical sources. They have so far been interpreted as extreme solar flares, more than an order of magnitude larger than the destructive Carrington Event, and would pose a serious threat to our technological civilization. To interpret high-resolution tree-ring radiocarbon measurements we have to model the entire global carbon cycle: the radiocarbon produced is not only circulated through the Earth's atmosphere and oceans, but also absorbed by the biosphere and locked in the annual growth rings of trees. Our team have therefore developed 'ticktack', the first open-source Python package that connects models of the carbon cycle and its characteristic response curves with modern Bayesian inference tools. We use this to analyse all public annual 14C tree data, and infer posterior parameters for all six known Miyake events. They do not show a consistent relationship to the solar cycle, and several display extended durations that challenge either astrophysical or geophysical models.
+AAL will be presenting a member update to University of Melbourne, introducing AAL and describing who we are and what we do for those who haven’t come across us before (while also providing a refresher to those who have). Information on how AAL makes funding decisions will also form part of the update. Our presenters, Professor Orsola De Marco (AAL Board Chair) and Romy Pearse (AAL Communications Manager) will then open up the floor to discussion, allowing plenty of time for the audience to ask questions or talk about matters that are important to them. We will be utilising WooClap (a Q&A online platform) for part of the session, so it would be great if everyone can have a device on hand (a phone will do!) to jump online and participate.
 <\section>
 [end]
