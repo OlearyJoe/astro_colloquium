@@ -1,7 +1,5 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
 #
-20230823%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Evgeni Grishin%%%Monash University%%%TBC%%%TBC%%%-%%%Research Fellow%%%evgeni.jpg%%%-%%%evgeni.grishin[at]monash.edu%%%-
-#
 20230830%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Benedetta Vulcani%%%Italian National Institute of Astrophysics%%%TBC%%%TBC%%%-%%%ARC DECRA Fellow%%%no_image.jpg%%%-%%%benedetta.vulcani[at]inaf.it%%%-
 # 
 20230906%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Natasha Van Bemmel%%%Swinburne%%%TBC%%%TBC%%%-%%%PhD %%%no_image.jpg%%%-%%%nvanbemmel[at]swin.edu.au%%%-

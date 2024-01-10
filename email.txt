@@ -1,11 +1,11 @@
 [status publish]
 [category Colloquium]
-[slug Rachel_Harrison.html]
+[slug Evgeni_Grishin.html]
 [comments off]
-Wednesday 16 Aug 2023 @ 12:00 p.m., Level 6 Geoff Opat(+Zoom)
-<strong>Rachel Harrison</strong>, <em>Monash University</em>; Email: Rachel.Harrison[at]monash.edu
+Wednesday 23 Aug 2023 @ 12:00 p.m., Old Geology Theatre 2(+Zoom)
+<strong>Evgeni Grishin</strong>, <em>Monash University</em>; Email: evgeni.grishin[at]monash.edu
 <section>
 <h2>Abstract</h2>
-Evidence is now mounting that planet formation begins early in a planetary system’s lifetime, while the protostar is still surrounded by a disk of gas and dust. Obtaining information about the dust in protoplanetary disks is necessary to investigate the details of planet formation. Polarization observations provide a unique window into the properties and evolution of dust grains in these disks. In this talk, I will discuss the results of observational studies and models of polarized emission at millimeter and sub-millimeter wavelengths in protoplanetary disks. We find that the scattering of thermal emission by dust can produce polarized emission consistent with the morphologies seen in many observations of disks. By comparing the polarized emission across multiple wavelengths, we can derive information about the sizes and physical distributions of dust grains.
+The dynamical and hydrodynamical evolution of stars and stellar remnants is greatly affected by the dense galactic nuclei (GN) environment. We explore the complex interplay of several physical processes that shape the properties, rates and environments of nuclear transients and black hole (BH) mergers and gravitational-wave (GW) events: We show how stellar dynamics shape the rate and properties of stellar BH mergers, extreme mass ratio inspiral (EMRI) and tidal disruption events (TDE), and its feedback on star formation history in the galactic centre. For active galactic nuclei (AGN), we study how the presence of an accretion disc modified the lightcurves of exploding supernovae and their relation to other nuclear transients. Finally, we examine in detail the torques in AGN discs that drive BH's radial migration. We find that thermal torques greatly alter the existence and nature of migration traps in AGN discs, which are believed to be responsible for massive hierarchical GW mergers. We explore the parameters space and draw conclusions on GW mergers in the LIGO band and EMRI in the LISA band.
 <\section>
 [end]
