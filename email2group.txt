@@ -2,14 +2,14 @@
 <section><h2></h2></section>
 <section>Here is your friendly reminder of our upcoming astro colloquium.</section>
 <section><h2></h2></section>
-<section>Time: Wednesday 26 Jul 2023 @ 12:00 p.m.</section>
+<section>Time: Wednesday 09 Aug 2023 @ 12:00 p.m.</section>
 <section>Venue: Level 6 Geoff Opat(+Zoom), <a href="https://unimelb.zoom.us/j/88123723593?pwd=cXBaRGp5V3kwd1kzekFTeGRPQzlCQT09">Zoom link</a> (password: 192)</section>
-<section><strong>Leonardo Giani from University of Queensland</strong> (l.giani[at]uq.edu.au)</section>
-<section><img src="https://qyx268.github.io/astro_colloquium/images/LeoGiani.jpeg" width="100" height="100"></section>
-<section><h2>Doctor suggests a new diet for Non-local gravity</h2></section>
-<section><i>Many non-local modifications of the Einstein Hilbert action (involving the inverse of some differential operator acting on the Ricci scalar) have been proposed over the past 2.5 decades. They are appealing because they could effectively describe the impact of the vacuum quantum fluctuations in a curved space-time on cosmological scales, and act as a source of Dark Energy. In the first part of this seminar we will discuss the common features of these models and their compatibility with observations. In the second part we'll introduce a novel type of non-local term, inspired by Sakharov induced gravity model, and show that a completely different phenomenology could arise.  Interestingly, the latter seems particularly suited to address at the same time both the $H_0$ and $\sigma_8$ cosmic tensions.</i></section>
+<section><strong>Benjamin Roberts from University of Queensland</strong> (b.roberts[at]uq.edu.au)</section>
+<section><img src="https://qyx268.github.io/astro_colloquium/images/BenRoberts.jpeg" width="100" height="100"></section>
+<section><h2>Variation of fundamental constants: Search for new physics around a supermassive black hole</h2></section>
+<section><i>The standard model of particle physics and the general theory of relativity are extraordinarily successful theories. However, there are several deep inconsistencies between these theories and the observed universe. For example, the standard model cannot explain the observed matter-anti-matter asymmetry, and there is no definitive explanation for dark matter or dark energy. A formidable effort has pushed tests of fundamental physics ever further on the energy and precision frontiers, culminating in the discovery of the Higgs boson at CERN and the detection of gravitational waves by LIGO. In a certain light, however, such grand expeditions have been ultimately disappointing in the sense that any sign of physics beyond the Standard Model has eluded detection to date. One alternative approach is to instead focus on the search for violations of the deep assumptions of above theories, such as the equivalence principle. Searching for space-time variations of the constants of Nature is a promising way to search for new physics beyond general relativity and the standard model motivated by unification theories and models of dark matter and dark energy. In this talk, I'll discuss the basic ideas behind this kind of search, and outline results from our search for variation in the fine structure constant in the extreme gravitational environment around the supermassive black hole at the centre of our galaxy.</i></section>
 <section><h2></h2></section>
-<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Leonardo_Giani.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
+<small>See more about this talk on <a href="https://qyx268.github.io/astro_colloquium/talks/Benjamin_Roberts.html">this page</a> or our tentative schedule for future colloquia on <a href="https://qyx268.github.io/astro_colloquium/upcoming.html">this page</a></small>
 <section><h2></h2></section>
 <section>Looking forward to seeing you at the talk.</section>
 <section><h2></h2></section>

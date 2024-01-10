@@ -1,7 +1,5 @@
 #Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%extra%%%position%%%speakerimage%%%talkimage%%%email%%%Slides
 #
-20230809%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Benjamin Roberts%%%University of Queensland%%%TBC%%%TBC%%%-%%%ARC DECRA Fellow%%%BenRoberts.jpeg%%%-%%%b.roberts[at]uq.edu.au%%%-
-#
 20230816%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Rachel Harrison%%%Monash University%%%TBC%%%TBC%%%-%%%Research Fellow%%%no_image.png%%%-%%%Rachel.Harrison[at]monash.edu%%%-
 #
 20230823%%%12:00 p.m.%%%Old Geology Theatre 2(+Zoom)%%%Evgeni Grishin%%%Monash University%%%TBC%%%TBC%%%-%%%Research Fellow%%%evgeni.jpg%%%-%%%evgeni.grishin[at]monash.edu%%%-
