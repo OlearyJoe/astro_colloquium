@@ -37,3 +37,5 @@
 20240213%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Amit Seta%%%Australian National University%%%TBC%%%TBC%%%-%%%Senior Research Fellow%%%AmitSeta.jpeg%%%-%%%Amit.Seta[at]anu.edu.au%%%-
 #
 20240214%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Rebecca McElroy%%%University of Queensland%%%TBC%%%TBC%%%-%%%Research Fellow%%%RebeccaMc.jpeg%%%-%%%r.mcelroy[at]uq.edu.au%%%-
+#
+20240221%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Alex Wallace%%%Monash University%%%TBC%%%TBC%%%-%%%Research Fellow%%%no_image.png%%%-%%%alex.wallace1[at]monash.eduu%%%-
