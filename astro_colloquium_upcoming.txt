@@ -34,6 +34,6 @@
 #
 20240221%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Alex Wallace%%%Monash University%%%TBC%%%TBC%%%-%%%Research Fellow%%%no_image.png%%%-%%%alex.wallace1[at]monash.edu%%%-
 #
-20240228%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Ben McAllister%%%Swinburne University%%%TBC%%%TBC%%%-%%%Research Fellow%%%BenMcA.png%%%-%%%bmcallister[at]swin.edu.au%%%-
+20240228%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Ben McAllister%%%Swinburne University%%%TBC%%%TBC%%%-%%%Research Fellow%%%BenMcA.jpeg%%%-%%%bmcallister[at]swin.edu.au%%%-
 #
 20240501%%%12:00 p.m.%%%Zoom%%%Meg Millhouse%%%Georgia Institute of Technology%%%TBC%%%TBC%%%-%%%Research Scientist%%%MegMillhouse.jpeg%%%-%%%mmillhouse3[at]gatech.edu%%%-
