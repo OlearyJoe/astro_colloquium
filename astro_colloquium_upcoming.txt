@@ -38,11 +38,13 @@
 #
 20240306%%%12:00 p.m.%%%Zoom%%%Mukesh Vyas%%%Bar Ilan University%%%TBC%%%TBC%%%-%%%Postdoc%%%no_image.png%%%-%%%mukeshkvys[at]gmail.com%%%-
 #
-20240313%%%12:00 p.m.%%%Zoom%%%Thomas Killestein%%%University of Turku%%%TBC%%%TBC%%%-%%%Postdoc%%%TomK.jpeg%%%-%%%thomas.killestein[at]utu.fi%%%-
+20240313%%%16:00 p.m.%%%Zoom%%%Thomas Killestein%%%University of Turku%%%TBC%%%TBC%%%-%%%Postdoc%%%TomK.jpeg%%%-%%%thomas.killestein[at]utu.fi%%%-
 #
 20240320%%%12:00 p.m.%%%Zoom%%%Joseph Bayley%%%University of Glasgow%%%TBC%%%TBC%%%-%%%Postdoc%%%JoeBayley.jpeg%%%-%%%Joseph.Bayley[at]glasgow.ac.uk%%%-
 #
 20240327%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Steven Siems%%%Monash University%%%TBC%%%TBC%%%-%%%Professor%%%SteveSiems.jpeg%%%-%%%steven.siems[at]monash.edu%%%-
+#
+20240403%%%16:00 p.m.%%%Zoom%%%Wladimiro Leone%%%University of Palermo%%%TBC%%%TBC%%%-%%%PhD Student%%%no_image.png%%%-%%%wladimiro.leone[at]unitn.it%%%-
 #
 20240501%%%12:00 p.m.%%%Zoom%%%Meg Millhouse%%%Georgia Institute of Technology%%%TBC%%%TBC%%%-%%%Research Scientist%%%MegMillhouse.jpeg%%%-%%%mmillhouse3[at]gatech.edu%%%-
 #
