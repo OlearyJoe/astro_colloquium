@@ -40,7 +40,7 @@
 #
 20240313%%%16:00 p.m.%%%Zoom%%%Thomas Killestein%%%University of Turku%%%TBC%%%TBC%%%-%%%Postdoc%%%TomK.jpeg%%%-%%%thomas.killestein[at]utu.fi%%%-
 #
-20240320%%%12:00 p.m.%%%Zoom%%%Joseph Bayley%%%University of Glasgow%%%TBC%%%TBC%%%-%%%Postdoc%%%JoeBayley.jpeg%%%-%%%Joseph.Bayley[at]glasgow.ac.uk%%%-
+20240320%%%10:00 a.m.%%%Zoom%%%Joseph Bayley%%%University of Glasgow%%%TBC%%%TBC%%%-%%%Postdoc%%%JoeBayley.jpeg%%%-%%%Joseph.Bayley[at]glasgow.ac.uk%%%-
 #
 20240327%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Steven Siems%%%Monash University%%%TBC%%%TBC%%%-%%%Professor%%%SteveSiems.jpeg%%%-%%%steven.siems[at]monash.edu%%%-
 #
