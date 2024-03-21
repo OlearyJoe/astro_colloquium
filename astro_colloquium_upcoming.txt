@@ -46,6 +46,8 @@
 #
 20240403%%%16:00 p.m.%%%Zoom%%%Wladimiro Leone%%%University of Palermo%%%TBC%%%TBC%%%-%%%PhD Student%%%no_image.png%%%-%%%wladimiro.leone[at]unitn.it%%%-
 #
+20240424%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Jade Powell%%%Swinburne University%%%TBC%%%TBC%%%-%%%DECRA Fellow%%%JadePowell.jpeg%%%-%%%jpowell[at]swin.edu.au%%%-
+#
 20240501%%%12:00 p.m.%%%Zoom%%%Meg Millhouse%%%Georgia Institute of Technology%%%TBC%%%TBC%%%-%%%Research Scientist%%%MegMillhouse.jpeg%%%-%%%mmillhouse3[at]gatech.edu%%%-
 #
 20240529%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Ashley Bransgrove%%%Princeton University%%%TBC%%%TBC%%%-%%%Postdoctoral Fellow%%%AshleyBransgrove.jpeg%%%-%%%abransgrove[at]princeton.edu%%%-
