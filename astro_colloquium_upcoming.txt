@@ -50,4 +50,6 @@
 #
 20240501%%%12:00 p.m.%%%Zoom%%%Meg Millhouse%%%Georgia Institute of Technology%%%TBC%%%TBC%%%-%%%Research Scientist%%%MegMillhouse.jpeg%%%-%%%mmillhouse3[at]gatech.edu%%%-
 #
+20240522%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Themiya Nanayakkara%%%Swinburne University%%%TBC%%%TBC%%%-%%%Laureate Postdoctoral Research Associate%%%Themiya.jpeg%%%-%%%wnanayakkara[at]swin.edu.au%%%-
+#
 20240529%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Ashley Bransgrove%%%Princeton University%%%TBC%%%TBC%%%-%%%Postdoctoral Fellow%%%AshleyBransgrove.jpeg%%%-%%%abransgrove[at]princeton.edu%%%-
