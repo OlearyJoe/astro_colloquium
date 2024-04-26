@@ -55,3 +55,5 @@
 20240522%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Themiya Nanayakkara%%%Swinburne University%%%TBC%%%TBC%%%-%%%Laureate Postdoctoral Research Associate%%%Themiya.jpeg%%%-%%%wnanayakkara[at]swin.edu.au%%%-
 #
 20240529%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Ashley Bransgrove%%%Princeton University%%%TBC%%%TBC%%%-%%%Postdoctoral Fellow%%%AshleyBransgrove.jpeg%%%-%%%abransgrove[at]princeton.edu%%%-
+#
+20240605%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Michael Brown%%%Monash University%%%TBC%%%TBC%%%-%%%Associate Professor%%%MichaelBrown.jpeg%%%-%%%Michael.Brown[at]monash.edu%%%-
