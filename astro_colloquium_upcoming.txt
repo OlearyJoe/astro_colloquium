@@ -56,6 +56,6 @@
 #
 20240529%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Ashley Bransgrove%%%Princeton University%%%TBC%%%TBC%%%-%%%Postdoctoral Fellow%%%AshleyBransgrove.jpeg%%%-%%%abransgrove[at]princeton.edu%%%-
 #
-20240605%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Michael Brown%%%Monash University%%%TBC%%%TBC%%%-%%%Associate Professor%%%MichaelBrown.jpeg%%%-%%%Michael.Brown[at]monash.edu%%%-
+20240612%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Michael Brown%%%Monash University%%%TBC%%%TBC%%%-%%%Associate Professor%%%MichaelBrown.jpeg%%%-%%%Michael.Brown[at]monash.edu%%%-
 #
 20240814%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Valentina Di Marco%%%Monash University%%%TBC%%%TBC%%%-%%%PhD Student%%%Valentina.jpeg%%%-%%%valentina.dimarco[at]monash.edu%%%-
