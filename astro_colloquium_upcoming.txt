@@ -59,3 +59,5 @@
 20240612%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Michael Brown%%%Monash University%%%TBC%%%TBC%%%-%%%Associate Professor%%%MichaelBrown.jpeg%%%-%%%Michael.Brown[at]monash.edu%%%-
 #
 20240814%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Valentina Di Marco%%%Monash University%%%TBC%%%TBC%%%-%%%PhD Student%%%Valentina.jpeg%%%-%%%valentina.dimarco[at]monash.edu%%%-
+#
+20241211%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Lennary Balkenhol%%%Institut d'Astrophysique de Paris%%%TBC%%%TBC%%%-%%%Postdoc%%%Lennart.jpeg%%%-%%%lennart.balkenhol[at]iap.fr%%%-
