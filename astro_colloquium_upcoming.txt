@@ -62,4 +62,6 @@
 #
 20240821%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%AAL%%%AAL%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
+20241023%%%12:00 p.m.%%%Zoom%%%Benjamin Schmitt%%%University of Pennsylvania%%%TBC%%%TBC%%%-%%%senior fellow%%%BenSchmitt.jpeg%%%-%%%bschm[at]sas.upenn.edu%%%-
+#
 20241211%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Lennart Balkenhol%%%Institut d'Astrophysique de Paris%%%TBC%%%TBC%%%-%%%Postdoc%%%Lennart.jpeg%%%-%%%lennart.balkenhol[at]iap.fr%%%-
