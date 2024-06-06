@@ -58,6 +58,8 @@
 #
 20240612%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Michael Brown%%%Monash University%%%TBC%%%TBC%%%-%%%Associate Professor%%%MichaelBrown.jpeg%%%-%%%Michael.Brown[at]monash.edu%%%-
 #
+20240724%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Khaled Said Soliman%%%University of Queensland%%%TBC%%%TBC%%%-%%%Research Fellow%%%Khaled.jpeg%%%-%%%k.saidahmedsoliman[at]uq.edu.au%%%-
+#
 20240814%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Valentina Di Marco%%%Monash University%%%TBC%%%TBC%%%-%%%PhD Student%%%Valentina.jpeg%%%-%%%valentina.dimarco[at]monash.edu%%%-
 #
 20240821%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%AAL%%%AAL%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
