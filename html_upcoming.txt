@@ -30,6 +30,7 @@ Michael_Brown
 Khaled_Said_Soliman
 Valentina_Di_Marco
 AAL
+Kyohei_Yamada
 Yuuki_Omori
 Benjamin_Schmitt
 Lennart_Balkenhol

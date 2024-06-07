@@ -64,6 +64,8 @@
 #
 20240821%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%AAL%%%AAL%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
 #
+20240828%%%12:00 p.m.%%%Zoom%%%Kyohei Yamada%%%University of Tokyo%%%TBC%%%TBC%%%-%%%-%%%no_image.png%%%-%%%-%%%-
+#
 20240925%%%12:00 p.m.%%%Zoom%%%Yuuki Omori%%%University of Chicago%%%TBC%%%TBC%%%-%%%senior researcher%%%Yuuki.jpeg%%%-%%%yomori[at]uchicago.edu%%%-
 #
 20241023%%%12:00 p.m.%%%Zoom%%%Benjamin Schmitt%%%University of Pennsylvania%%%TBC%%%TBC%%%-%%%senior fellow%%%BenSchmitt.jpeg%%%-%%%bschm[at]sas.upenn.edu%%%-
