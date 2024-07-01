@@ -56,8 +56,6 @@
 #
 20240529%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Ashley Bransgrove%%%Princeton University%%%TBC%%%TBC%%%-%%%Postdoctoral Fellow%%%AshleyBransgrove.jpeg%%%-%%%abransgrove[at]princeton.edu%%%-
 #
-20240612%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Michael Brown%%%Monash University%%%TBC%%%TBC%%%-%%%Associate Professor%%%MichaelBrown.jpeg%%%-%%%Michael.Brown[at]monash.edu%%%-
-#
 20240703%%%12:00 p.m.%%%Zoom%%%Jyoti Kaur%%%University of Western Australia%%%TBC%%%TBC%%%-%%%Research Associate%%%Jyoti.jpeg%%%-%%%tejinder.kaur[at]uwa.edu.au%%%-
 #
 20240710%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Matthew Miles%%%Swinburne University of Technology%%%TBC%%%TBC%%%-%%%Postdoctoral Fellow%%%MattMiles.jpeg%%%-%%%matthewmiles[at]swin.edu.au%%%-
@@ -71,6 +69,8 @@
 20240807%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Valentina Di Marco%%%Monash University%%%TBC%%%TBC%%%-%%%PhD Student%%%Valentina.jpeg%%%-%%%valentina.dimarco[at]monash.edu%%%-
 #
 20240828%%%12:00 p.m.%%%Zoom%%%Kyohei Yamada%%% Princeton University%%%TBC%%%TBC%%%-%%%Postdoctoral Research Associate%%%no_image.png%%%-%%%-%%%-
+#
+20240904%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Michael Brown%%%Monash University%%%TBC%%%TBC%%%-%%%Associate Professor%%%MichaelBrown.jpeg%%%-%%%Michael.Brown[at]monash.edu%%%-
 #
 20240911%%%12:00 p.m.%%%Zoom%%%Anna Coerver%%%University of California Berkeley%%%TBC%%%TBC%%%-%%%PhD Student%%%AnnaC.jpeg%%%-%%%acoerver[at]berkeley.edu%%%-
 #

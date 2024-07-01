@@ -26,7 +26,6 @@ Meg_Millhouse
 Bernhard_Mueller
 Themiya_Nanayakkara
 Ashley_Bransgrove
-Michael_Brown
 Jyoti_Kaur
 Matthew_Miles
 Jennifer_Wright
@@ -34,6 +33,7 @@ Khaled_Said_Soliman
 Ahmad_Nemer
 Valentina_Di_Marco
 Kyohei_Yamada
+Michael_Brown
 Anna_Coerver
 AAL
 Yuuki_Omori
