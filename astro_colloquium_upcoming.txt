@@ -86,4 +86,6 @@
 #
 20241127%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Henric Krawczynski%%%Washington University%%%TBC%%%TBC%%%-%%%Professor%%%Henric.jpeg%%%-%%%krawcz[at]wustl.edu%%%-
 #
+20241204%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Cullan Howlett%%%University of Queensland%%%TBC%%%TBC%%%-%%%Postdoctoral Research Fellow%%%Cullan.jpeg%%%-%%%c.howlett[at]uq.edu.au%%%-
+#
 20241211%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Lennart Balkenhol%%%Institut d'Astrophysique de Paris%%%TBC%%%TBC%%%-%%%Postdoc%%%Lennart.jpeg%%%-%%%lennart.balkenhol[at]iap.fr%%%-
