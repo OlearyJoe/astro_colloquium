@@ -82,9 +82,9 @@
 #
 20241016%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Sharan Banagiri%%%Monash University%%%TBC%%%TBC%%%-%%%Postdoc%%%Sharan.jpeg%%%-%%%sharan.banagiri[at]monash.edu%%%-
 #
-20241023%%%12:00 p.m.%%%Zoom%%%Benjamin Schmitt%%%University of Pennsylvania%%%TBC%%%TBC%%%-%%%senior fellow%%%BenSchmitt.jpeg%%%-%%%bschm[at]sas.upenn.edu%%%-
-#
 20241030%%%12:00 p.m.%%%Level 6 Geoff Opat(+Zoom)%%%Emma Carli%%%Swinburne University%%%TBC%%%TBC%%%-%%%Research Fellow%%%EmmaCarli.jpeg%%%-%%%ecarli[at]swin.edu.au%%%-
+#
+20241106%%%12:00 p.m.%%%Zoom%%%Benjamin Schmitt%%%University of Pennsylvania%%%TBC%%%TBC%%%-%%%senior fellow%%%BenSchmitt.jpeg%%%-%%%bschm[at]sas.upenn.edu%%%-
 #
 20241113%%%12:00 p.m.%%%Zoom%%%Tuila Ziliotto%%%University of Padova%%%TBC%%%TBC%%%-%%%PhD Student%%%Tuila.jpeg%%%-%%%tuila.ziliotto[at]unipd.it%%%-
 #
